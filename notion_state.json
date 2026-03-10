@@ -1,0 +1,943 @@
+{
+  "page_blocks:31c07cda8c7080e5adafdacfd1343a58": [
+    {
+      "object": "block",
+      "id": "31c07cda-8c70-8093-a324-f5c10f3248f4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-07T09:45:00.000Z",
+      "last_edited_time": "2026-03-07T09:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Standard way to write task for each other:\n1. Put date\n2. Put a to do box (use / to find it)\n3. Write task \nRemember when person did a task then click on tick box.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Standard way to write task for each other:\n1. Put date\n2. Put a to do box (use / to find it)\n3. Write task \nRemember when person did a task then click on tick box.",
+            "href": null
+          }
+        ],
+        "language": "javascript"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31c07cda-8c70-801b-9f22-cedd0e95342b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-07T09:44:00.000Z",
+      "last_edited_time": "2026-03-07T09:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u2b50 To Anushaka: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u2b50 To Anushaka: ",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31c07cda-8c70-80d1-bfba-ea08f91b5f1b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-07T09:45:00.000Z",
+      "last_edited_time": "2026-03-10T09:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "10.03.2026 ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "10.03.2026 ",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31f07cda-8c70-806a-84c7-d65b005553dd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-10T09:08:00.000Z",
+      "last_edited_time": "2026-03-10T09:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "to_do",
+      "to_do": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Uploading AI detector on GitHub before 4pm",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Uploading AI detector on GitHub before 4pm",
+            "href": null
+          }
+        ],
+        "checked": false,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31f07cda-8c70-80ec-b889-e636cff0e58e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-10T09:08:00.000Z",
+      "last_edited_time": "2026-03-10T09:09:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "to_do",
+      "to_do": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Doing notion automation by today",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Doing notion automation by today",
+            "href": null
+          }
+        ],
+        "checked": false,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31f07cda-8c70-8052-9cc3-fe13d7cef211",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-10T09:09:00.000Z",
+      "last_edited_time": "2026-03-10T09:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31c07cda-8c70-8026-beb1-f2d8d4b53e9c",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-07T09:46:00.000Z",
+      "last_edited_time": "2026-03-10T09:10:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "NOTE: watch out veritasium video: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "NOTE: watch out veritasium video: ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "https://youtu.be/Ol18JoeXlVI?si=NlK-pZSJdAAFU6K9",
+              "link": {
+                "url": "https://youtu.be/Ol18JoeXlVI?si=NlK-pZSJdAAFU6K9"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "https://youtu.be/Ol18JoeXlVI?si=NlK-pZSJdAAFU6K9",
+            "href": "https://youtu.be/Ol18JoeXlVI?si=NlK-pZSJdAAFU6K9"
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": " helps in developing thinking process.",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": " helps in developing thinking process.",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31c07cda-8c70-8091-90f9-d4e3f9b701bf",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-07T09:45:00.000Z",
+      "last_edited_time": "2026-03-07T09:48:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_2",
+      "heading_2": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "\u267e\ufe0f To Tarundeep:",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "\u267e\ufe0f To Tarundeep:",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31c07cda-8c70-8051-ac71-ea0ffec6b635",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-07T09:49:00.000Z",
+      "last_edited_time": "2026-03-07T09:55:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "7.03.2026",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "7.03.2026",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31c07cda-8c70-80bd-bff7-c5907d99c7ce",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-07T09:55:00.000Z",
+      "last_edited_time": "2026-03-07T16:41:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "to_do",
+      "to_do": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Check for similar project pitch in previous public available Hackathons ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Check for similar project pitch in previous public available Hackathons ",
+            "href": null
+          }
+        ],
+        "checked": true,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31c07cda-8c70-802f-862a-e088983c499e",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-07T20:24:00.000Z",
+      "last_edited_time": "2026-03-07T21:30:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "to_do",
+      "to_do": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Check the updated Architecture flow in the same page",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Check the updated Architecture flow in the same page",
+            "href": null
+          }
+        ],
+        "checked": true,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31c07cda-8c70-80bf-b98f-c82fafcaecf6",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-07T20:51:00.000Z",
+      "last_edited_time": "2026-03-07T21:29:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "to_do",
+      "to_do": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Added extra features to enhance the App",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Added extra features to enhance the App",
+            "href": null
+          }
+        ],
+        "checked": true,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31e07cda-8c70-80e0-b5e4-e3194fe70e58",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-09T22:16:00.000Z",
+      "last_edited_time": "2026-03-09T22:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31e07cda-8c70-80f4-8020-c308d7402e2b",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-09T22:16:00.000Z",
+      "last_edited_time": "2026-03-09T22:16:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "9.03.2026",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "9.03.2026",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31e07cda-8c70-8065-888c-fd2ca6aeddc4",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-09T22:16:00.000Z",
+      "last_edited_time": "2026-03-09T22:17:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "NOTE: Found the free unlimited API keys supply without expiry date in platform: ",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "NOTE: Found the free unlimited API keys supply without expiry date in platform: ",
+            "href": null
+          },
+          {
+            "type": "text",
+            "text": {
+              "content": "console.groq.com",
+              "link": {
+                "url": "http://console.groq.com/"
+              }
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "console.groq.com",
+            "href": "http://console.groq.com/"
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31f07cda-8c70-80e6-8ee0-d2c22018858d",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-10T08:37:00.000Z",
+      "last_edited_time": "2026-03-10T08:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31c07cda-8c70-803c-81b4-d21e0f4e61dd",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-07T09:49:00.000Z",
+      "last_edited_time": "2026-03-10T08:37:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "paragraph",
+      "paragraph": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "10.03.2026",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "10.03.2026",
+            "href": null
+          }
+        ],
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31f07cda-8c70-8075-9d21-c533d2b25685",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-10T08:37:00.000Z",
+      "last_edited_time": "2026-03-10T08:38:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "to_do",
+      "to_do": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Testing Notion Automation",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Testing Notion Automation",
+            "href": null
+          }
+        ],
+        "checked": false,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31f07cda-8c70-80f9-8e70-c28528578092",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-10T10:52:00.000Z",
+      "last_edited_time": "2026-03-10T10:52:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "to_do",
+      "to_do": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Testing Notion Automation",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Testing Notion Automation",
+            "href": null
+          }
+        ],
+        "checked": true,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31c07cda-8c70-8052-b94f-f9bedccc45ea",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-07T09:49:00.000Z",
+      "last_edited_time": "2026-03-07T09:49:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "heading_1",
+      "heading_1": {
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "Comment Section",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "Comment Section",
+            "href": null
+          }
+        ],
+        "is_toggleable": false,
+        "color": "default"
+      },
+      "archived": false
+    },
+    {
+      "object": "block",
+      "id": "31c07cda-8c70-8013-89c4-d3b5440e4fbe",
+      "parent": {
+        "type": "page_id",
+        "page_id": "31c07cda-8c70-80e5-adaf-dacfd1343a58"
+      },
+      "created_time": "2026-03-07T09:49:00.000Z",
+      "last_edited_time": "2026-03-10T09:11:00.000Z",
+      "created_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "last_edited_by": {
+        "object": "user",
+        "id": "318d872b-594c-8109-bd53-0002d5d0352e"
+      },
+      "has_children": false,
+      "in_trash": false,
+      "type": "code",
+      "code": {
+        "caption": [],
+        "rich_text": [
+          {
+            "type": "text",
+            "text": {
+              "content": "@Tarundeep (07.03.2026) Check the extra features which would be great if time suffices.\n@Anushaka  (10.03.2026) Great work with API\n@Anushaka  (10.03.2026) Are you done with automation? or doing after 3 pm as we planned?\n",
+              "link": null
+            },
+            "annotations": {
+              "bold": false,
+              "italic": false,
+              "strikethrough": false,
+              "underline": false,
+              "code": false,
+              "color": "default"
+            },
+            "plain_text": "@Tarundeep (07.03.2026) Check the extra features which would be great if time suffices.\n@Anushaka  (10.03.2026) Great work with API\n@Anushaka  (10.03.2026) Are you done with automation? or doing after 3 pm as we planned?\n",
+            "href": null
+          }
+        ],
+        "language": "javascript"
+      },
+      "archived": false
+    }
+  ],
+  "comment_count:31c07cda8c7080e5adafdacfd1343a58": 0,
+  "page_meta:31c07cda8c7080e5adafdacfd1343a58": "2026-03-10T10:52:00.000Z"
+}

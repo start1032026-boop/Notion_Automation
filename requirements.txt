@@ -1,0 +1,14 @@
+anthropic>=0.25.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+
+
+# Notion INternal Integration SEcret:
+ntn_h20946975845sa506V9DldW0cvJvan7tjxjvFf3V0Bd8Ey
+
+
+
+
+
+uosx uuba zizv wloh
